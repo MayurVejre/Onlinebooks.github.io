@@ -1,0 +1,23 @@
+.z{
+    height: 655px;
+    background-color: black;
+}
+.a{
+    text-align: center;
+    color: white;
+}
+.b{
+    color: blue;
+    background-color: rgb(197, 197, 197);
+    font-size: larger;
+}
+.d{
+    color: white;
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS';
+}
+
+.e{
+    height: 400px;
+    width: 300px;
+}

@@ -1,0 +1,41 @@
+.card{
+    box-sizing: border-box;
+    outline: none;
+    width: 170px;
+    height: 300px;
+}
+.card:hover {
+    background-color: black;
+    color: white;
+    box-shadow: -9px 10px 5px 0px grey;
+    -webkit-box-shadow: -9px 10px 5px 0px grey;
+    -moz-box-shadow: -9px 10px 5px 0px grey;
+    transition: 0.5s;
+    transform:translateY(10px)
+}
+
+.card-body{
+    height: 300px;
+    width: 175px;
+}
+.card-img-top{
+    height: 196px;
+    width: 168px;
+}
+.btn{
+    height:30px;
+    width: 100px;
+}
+.Nametitle{
+    font-size: 25px;
+    text-align: center;
+}
+.container{
+    text-align: center;
+}
+.copy{
+    text-align: center;
+}
+.c{
+    color: skyblue;
+}
